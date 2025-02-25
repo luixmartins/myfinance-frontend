@@ -25,7 +25,6 @@ const FormLogin = ({ onSubmit }) => {
             <Button variant="dark" type="submit" className="mt-3"> Login</Button>
         </Form >
     )
-
 }
 
 export default FormLogin; 
